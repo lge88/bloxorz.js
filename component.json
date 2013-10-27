@@ -1,0 +1,56 @@
+{
+  "name": "bloxorz.js",
+  "repo": "lge88/bloxorz.js",
+  "description": "bloxorz.js",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "lge88/three-build": "*",
+    "component/emitter": "*",
+    "lge88/extend": "*",
+    "component/tween": "*"
+  },
+  "development": {
+    "lge88/expect.js": "*",
+    "lge88/ise-viewport": "*",
+    "lge88/ise-editor-controls": "*",
+    "lge88/three-random-cubes": "*",
+    "lge88/camera-navigator": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lge88/bloxorz.js.git"
+  },
+  "_examples": "https://github.com/lge88/bloxorz.js/tree/master/examples",
+  "_test": "https://github.com/lge88/bloxorz.js/tree/master/test",
+  "_homepage": "https://github.com/lge88/bloxorz.js",
+  "scripts": [
+    "lib/index.js"
+  ],
+  "main": "lib/index.js",
+  "_rename_": [
+    "component.json",
+    "Makefile",
+    "examples/index.html",
+    "examples/main.js",
+    "examples/main.css",
+    "test/index.html",
+    "test/test.js"
+  ],
+  "_ise_paths_": [
+    "lib",
+    "lib-client"
+  ],
+  "_auto_update_file_list_": {
+    "folders": [
+      "lib"
+    ]
+  },
+  "_auto_index_files_": [],
+  "paths": [
+    "/home/GL/Develop/js/ise/lib",
+    "/home/GL/Develop/js/ise/lib-client"
+  ],
+  "styles": [],
+  "remotes": []
+}
