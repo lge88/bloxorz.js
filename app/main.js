@@ -16,7 +16,7 @@ var THREE = require( 'three' );
 var scene = game.scene;
 // scene.add( new THREE.FaceNormalsHelper( game.block, 50 ) )
 // scene.add( new THREE.VertexNormalsHelper( game.block, 50 ) )
-
+// bloxorz.Block.material.color.set( 'red' )
 setInterval( function() {
   game.render();
 }, 1000/60 )

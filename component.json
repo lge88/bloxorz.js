@@ -8,7 +8,8 @@
     "lge88/three-build": "*",
     "component/emitter": "*",
     "lge88/extend": "*",
-    "component/tween": "*"
+    "component/tween": "*",
+    "lge88/raf": "*"
   },
   "development": {
     "lge88/expect.js": "*",
